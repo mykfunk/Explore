@@ -36,6 +36,7 @@ body {
 	font-family: essonnes-display, serif;
 	font-size: 12.8vw;
 	line-height: 13vw;
+	font-weight:600;
 	transition: transform 2s ease-in-out;
 	animation: fadeIn 4s;
 	-webkit-animation: fadeIn 4s;
@@ -149,6 +150,7 @@ body {
 
 .modal-title {
 	font-family: essonnes-display, serif;
+	font-weight:600;
 	font-size: 4vw;
 	padding: 3vw 0vw 0vw 3vw;
 }
