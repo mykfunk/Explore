@@ -33,7 +33,7 @@ body {
 }
 
 .cetitle {
-	font-family: essonnes;
+	font-family: essonnes-display, serif;
 	font-size: 12.8vw;
 	line-height: 13vw;
 	transition: transform 2s ease-in-out;
@@ -148,7 +148,7 @@ body {
 }
 
 .modal-title {
-	font-family: essonnes;
+	font-family: essonnes-display, serif;
 	font-size: 4vw;
 	padding: 3vw 0vw 0vw 3vw;
 }
